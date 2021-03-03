@@ -1,3 +1,4 @@
+import style from '../../styles/Ninjas.module.css'
 const Ninja = () => {
   return ( 
     <div>
